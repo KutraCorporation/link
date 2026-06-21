@@ -1,0 +1,18 @@
+{
+	"$schema": "node_modules/wrangler/config-schema.json",
+	"name": "kutra-link",
+	"main": "src/index.ts",
+	"compatibility_date": "2025-06-20",
+	"observability": {
+    	"logs": {
+      		"enabled": true,
+      		"invocation_logs": true
+  	  	}
+  	},
+	"kv_namespaces": [
+		{
+			"binding": "KUTRA_LINKS_DB",
+			"id": "00547e3897b24b67984bf12357c68af2"
+		}
+	]
+}
