@@ -1,4 +1,6 @@
 # Kutra Link
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FKutraCorporation%2Flink.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FKutraCorporation%2Flink?ref=badge_shield)
+
 
 **Kutra Link** is the official link shortening and routing service of the Kutra Corporation ecosystem. Designed in line with our "Beyond Limits" vision, this service offers a minimalist, performance-oriented, and decentralized modern solution for managing digital footprints.
 
@@ -41,5 +43,8 @@ Kutra Link values ​​open-source philosophy and community-driven development.
 This project is licensed under the **Apache License**. See the `LICENSE` file for details.
 
 ---
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FKutraCorporation%2Flink.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FKutraCorporation%2Flink?ref=badge_large)
 
 ### *Kutra: Beyond Limits*
